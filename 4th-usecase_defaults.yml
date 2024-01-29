@@ -9,7 +9,7 @@ EVN:
   port: 5432
 - API_VM:
   Setting2:  *default
-  host: dev-db.exp.com
+  host: api-db.exp.com
   port: 80
   
   
