@@ -4,13 +4,13 @@ defaults: &default
    retires: 180
 EVN:
 - DB_VM:
-  <<:  *default
-  host: dev-db.exp.com
-  port: 5432
+    <<:  *default
+    host: dev-db.exp.com
+    port: 5432
 - API_VM:
-  Setting2:  *default
-  host: api-db.exp.com
-  port: 80
+    Setting2:  *default
+    host: api-db.exp.com
+    port: 80
   
   
  
