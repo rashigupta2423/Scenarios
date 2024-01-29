@@ -1,14 +1,14 @@
 ---
 # Environment details
 - Dev server details
-  - DB_connection :
+   DB_connection :
        hostname: dev-db.exp.com
        port: 3306
-  - api_key: abc123
+   api_key: abc123
 
  - Prod server details
-   -  DB_connection :
+    DB_connection :
         hostname: prod-db.exp.com
         port: 5432
-   - api_key: xyz789
+    api_key: xyz789
  
