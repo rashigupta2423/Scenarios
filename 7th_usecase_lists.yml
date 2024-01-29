@@ -1,0 +1,17 @@
+---
+#groceries list
+
+- Fruit_name: 
+   name1: apple
+   cost: 5
+   
+   name2: kiwi
+   cost:6
+   
+- vegetable_name:
+   name: potato
+   cost: 5
+   
+   name: tomato
+   cost: 6
+   
