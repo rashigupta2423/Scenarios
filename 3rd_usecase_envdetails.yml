@@ -9,6 +9,6 @@
  - Prod server details
    -  DB_connection :
         hostname: prod-db.exp.com
-        port: 3306
+        port: 5432
    - api_key: xyz789
  
