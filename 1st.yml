@@ -1,0 +1,9 @@
+myapp.yml
+# DB setting
+ host: localhost
+ port: 3306
+ username: myuser
+ password: mypassword
+#app Setting
+  app_name: myapp
+  debug mode: true
