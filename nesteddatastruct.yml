@@ -1,15 +1,16 @@
 ---
-- Users:
-    name: Mario
+# User Info
+Users:
+  - name: Mario
     age: 33
     address:
       street: 80 gulfbrook
       cit: Bramptpn
       zip_code: L6R 2Q1
-- User:
-    name: Luigi
-    age: 25
-    address:
+ 
+   - name: Luigi
+     age: 25
+     address:
       street: 22 mail street
       city: Hamilton
       zip_code: L0R 1P2
